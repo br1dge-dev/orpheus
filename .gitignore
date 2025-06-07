@@ -1,0 +1,17 @@
+# Modelle und große Daten
+models/
+outputs/
+*.gguf
+*.pth
+
+# Umgebungsvariablen
+.env
+
+# Python & System
+__pycache__/
+*.pyc
+*.log
+venv/
+
+# Sonstiges
+.DS_Store 
